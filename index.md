@@ -4,55 +4,55 @@ layout: default
 
 <div class="intro">
 
-# Alice Ku
+<h1>Alice Ku</h1>
 
 <div class="tagline">
 MRI · MRI Physics · Medical Imaging
 </div>
 
 <div class="links">
-
-[GitHub](https://github.com/Alice-Ku)
-[Google Scholar](https://scholar.google.com/citations?user=VL7OesUAAAAJ&hl=en)
-[CV](CV_research.pdf)
-[Email](mailto:aliceku0815@gmail.com)
-
+<a href="https://github.com/Alice-Ku">GitHub</a>
+<a href="https://scholar.google.com/citations?user=VL7OesUAAAAJ&hl=en">GoogleScholar</a>
+<a href="CV_research.pdf">CV</a>
+<a href="mailto:aliceku0815@gmail.com">Email</a>
 </div>
 
 </div>
 
 
-## About
-{: #about}
+<h2 id="about">About</h2>
+<p>
 Alice is a researcher interested in magnetic resonance imaging (MRI), especially the physics-based methods, computational imaging, and signal processing in MRI. Her current work focuses on MRI sequence programming and image reconstruction.
+</p>
 
-## Education
-{: #eduction}
+<h2 id="education">Education</h2>
 
 <div class="education-item">
 
-### University of Cambridge 
-**MPhil Medical Science** (research-based)
+<h3>University of Cambridge</h3>
+<strong>MPhil Medical Science (research-based) </strong>
 
 <div class="education-meta">
 2025-2026
 </div>
 
+<p>
 Research on vendor-neutral Pulseq sequence programming and image reconstruction for GRE and spiral.
+</p>
 
 </div>
 
+
 <div class="education-item">
 
-### Stanford University
-**M.S. in Electrical Engineering** (signal processing, control, and optimization)
-**B.S. in Engineering Physics**
+<h3>Stanford University<h3>
+<strong>M.S. in Electrical Engineering (signal processing, control, and optimization)<strong>
+<strong>B.S. in Engineering Physics<strong>
 <div class="education-meta">
 2021-2025
 </div>
 
-## Publications
-{: #publications}
+<h2 id="publications">Publications</h2>
 
 <div class="publication">
 
@@ -60,14 +60,17 @@ Research on vendor-neutral Pulseq sequence programming and image reconstruction 
 Hallucination analysis of score-based diffusion models for CT denoising through spatial frequency decomposition
 </div>
 
-**Ku, A.**, Tivnan, M., & Wu, D.
+<p>
+<strong>Ku, A.</strong>, Tivnan, M., & Wu, D.
+</p>
 
 <div class="publication-meta">
 IEEE ISBI, 2025.
 </div>
 
 <div class="publication-links">
-[Link](https://ieeexplore.ieee.org/abstract/document/10981211) · [DOI](10.1109/ISBI60581.2025.10981211)
+<a href="https://ieeexplore.ieee.org/abstract/document/10981211">Link</a> ·
+<a href="10.1109/ISBI60581.2025.10981211">DOI</a>
 </div>
 
 </div>
@@ -84,7 +87,8 @@ SPIE, 2024.
 </div>
 
 <div class="publication-links">
-[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129250V/Denoising-x-ray-images-with-deep-learning--impact-of/10.1117/12.3006556.short) · [DOI](https://doi.org/10.1117/12.3006556)
+<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129250V/Denoising-x-ray-images-with-deep-learning--impact-of/10.1117/12.3006556.short">Link</a> ·
+<a href="https://doi.org/10.1117/12.3006556">DOI</a>
 </div>
 
 </div>
@@ -100,20 +104,23 @@ Communications Engineering, 2025.
 </div>
 
 <div class="publication-links">
-[Link](https://www.nature.com/articles/s44172-025-00540-0) · [DOI](https://doi.org/10.1038/s44172-025-00540-0) · [Website](https://opendosimeter.org/)
+<a href="https://www.nature.com/articles/s44172-025-00540-0">Link</a> ·
+<a href="https://doi.org/10.1038/s44172-025-00540-0">DOI</a> ·
+<a href="https://opendosimeter.org/">Website</a>
 </div>
 
 </div>
 
 
-## Selected Projects
-{: #projects}
+<h2 id="projects">Selected Projects</h2>
 
 <div class="project">
 
-### Pulseq sequence programming on GE MRI systems
+<h3>Pulseq sequence programming on GE MRI systems<h3>
 
+<p>
 Implementation of vendor-neutral Pulseq GRE and spiral sequences on GE HealthCare 1.5 T and 3.0 T MRI systems. B0-inhomogeneity corrections for spiral reconstructions. Quantitative comparisons between vendor and Pulseq reconstructions.
+</p>
 
 <div class="project-tech">
 MATLAB · Pulseq · TOPPE · MIRT · GE Orchestra · GE EPIC
@@ -121,24 +128,27 @@ MATLAB · Pulseq · TOPPE · MIRT · GE Orchestra · GE EPIC
 
 <div class="project">
 
-### GUI for vendor-neutral sequence development
+<h3>GUI for vendor-neutral sequence development<h3>
 
-Integration of on-scanner Pulseq sequence generation, reconstruction, and visualization. Direct reading of scanner condifurations. Flexible adjustments for sequence generation parameters. 
+<p>
+Integration of on-scanner Pulseq sequence generation, reconstruction, and visualization. Direct reading of scanner configurations. Flexible adjustments for sequence generation parameters. 
+</p>
 
 <div class="project-tech">
 MATLAB APP Developer · GE EPIC
 </div>
 
-[GitHub](https://github.com/Alice-Ku/Pulseq-GE-GUI)
+<p>
+<a href="https://github.com/Alice-Ku/Pulseq-GE-GUI">GitHub</a>
+</p>
 
 </div>
 
-## Industry Experience
-{: #industry}
+<h2 id="industry">Industry Experience</h2>
 
 <div class="industry">
 
-### TSMC 
+<h3>TSMC<h3>
 
 <div class="project-meta">
 R&D Intern (optical proximity correction, OPC)
@@ -148,4 +158,6 @@ R&D Intern (optical proximity correction, OPC)
 
 
 ---
+</div>
 © 2026 Alice Ku
+</div>
