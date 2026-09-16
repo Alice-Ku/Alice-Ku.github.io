@@ -116,9 +116,11 @@ Communications Engineering, 2025.
 
 <h3>Pulseq sequence programming on GE MRI systems</h3>
 
-<p>
-Implementation of vendor-neutral Pulseq GRE and spiral sequences on GE HealthCare 1.5 T and 3.0 T MRI systems. B0-inhomogeneity corrections for spiral reconstructions. Quantitative comparisons between vendor and Pulseq reconstructions.
-</p>
+<ul>
+    <li>Implementation of vendor-neutral Pulseq GRE and spiral sequences on GE HealthCare 1.5 T and 3.0 T MRI systems</li>
+    <li>B0-inhomogeneity corrections for spiral reconstructions</li>
+    <li>Quantitative comparisons between vendor and Pulseq reconstructions</li>
+</ul>
 
 <div class="project-tech">
 MATLAB · Pulseq · TOPPE · MIRT · GE Orchestra · GE EPIC
@@ -128,9 +130,11 @@ MATLAB · Pulseq · TOPPE · MIRT · GE Orchestra · GE EPIC
 
 <h3>GUI for vendor-neutral sequence development</h3>
 
-<p>
-Integration of on-scanner Pulseq sequence generation, reconstruction, and visualization. Direct reading of scanner configurations. Flexible adjustments for sequence generation parameters. 
-</p>
+<ul>
+    <li>Integration of on-scanner Pulseq sequence generation, reconstruction, and visualization</li>
+    <li>Direct reading of scanner configurations</li>
+    <li>Flexible adjustments for sequence generation parameters</li>
+</ul>
 
 <div class="project-tech">
 MATLAB APP Developer · GE EPIC
@@ -154,5 +158,5 @@ R&D Intern (optical proximity correction, OPC)<br>
 </div>
 
 
----
+--- <br>
 © 2026 Alice Ku
