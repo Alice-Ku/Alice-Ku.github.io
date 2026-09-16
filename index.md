@@ -46,8 +46,8 @@ Research on vendor-neutral Pulseq sequence programming and image reconstruction 
 <div class="education-item">
 
 <h3>Stanford University</h3>
-<strong>M.S. in Electrical Engineering (signal processing, control, and optimization)<strong>
-<strong>B.S. in Engineering Physics<strong>
+<strong>M.S. in Electrical Engineering</strong> (signal processing, control, and optimization)<br>
+<strong>B.S. in Engineering Physics</strong>
 <div class="education-meta">
 2021-2025
 </div>
@@ -78,7 +78,9 @@ IEEE ISBI, 2025.
 Denoising x-ray images with deep learning: impact of spatially correlated noise
 </div>
 
+<p>
 <strong>Ku, A.</strong>, Wang, S., & Wang, A.
+</p>
 
 <div class="publication-meta">
 SPIE, 2024.
@@ -146,7 +148,7 @@ MATLAB APP Developer · GE EPIC
 <h3>TSMC</h3>
 
 <div class="project-meta">
-R&D Intern (optical proximity correction, OPC)
+R&D Intern (optical proximity correction, OPC)<br>
 2025
 
 </div>
