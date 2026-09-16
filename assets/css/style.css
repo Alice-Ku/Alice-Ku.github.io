@@ -195,6 +195,7 @@ a:hover {
 
 .publication-links {
   margin-top: 4px;
+  margin-bottom: 32px;
 }
 
 
@@ -203,7 +204,7 @@ a:hover {
 ------------------------------ */
 
 .project {
-  margin-bottom: 32px;
+  margin-bottom: 24px;
 }
 
 .project-tech {
