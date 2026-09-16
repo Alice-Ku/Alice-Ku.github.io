@@ -45,7 +45,7 @@ Research on vendor-neutral Pulseq sequence programming and image reconstruction 
 
 <div class="education-item">
 
-<h3>Stanford University<h3>
+<h3>Stanford University</h3>
 <strong>M.S. in Electrical Engineering (signal processing, control, and optimization)<strong>
 <strong>B.S. in Engineering Physics<strong>
 <div class="education-meta">
@@ -73,13 +73,12 @@ IEEE ISBI, 2025.
 <a href="10.1109/ISBI60581.2025.10981211">DOI</a>
 </div>
 
-</div>
 
 <div class="publication-title">
 Denoising x-ray images with deep learning: impact of spatially correlated noise
 </div>
 
-**Ku, A.**, Wang, S., & Wang, A.
+<strong>Ku, A.</strong>, Wang, S., & Wang, A.
 
 <div class="publication-meta">
 SPIE, 2024.
@@ -91,13 +90,12 @@ SPIE, 2024.
 <a href="https://doi.org/10.1117/12.3006556">DOI</a>
 </div>
 
-</div>
 
 <div class="publication-title">
 OpenDosimeter: Open hardware personal X-ray dosimeter
 </div>
 
-Ger, N., **Ku, A.**, Lopez, J., Bennett, N.R., Wang, J., Ateka, G., Anyenda, E., Rosezky, M., Wang, A.S., & Shaker, K. 
+Ger, N., <strong>Ku, A.</strong>, Lopez, J., Bennett, N.R., Wang, J., Ateka, G., Anyenda, E., Rosezky, M., Wang, A.S., & Shaker, K. 
 
 <div class="publication-meta">
 Communications Engineering, 2025.
@@ -109,14 +107,12 @@ Communications Engineering, 2025.
 <a href="https://opendosimeter.org/">Website</a>
 </div>
 
-</div>
-
 
 <h2 id="projects">Selected Projects</h2>
 
 <div class="project">
 
-<h3>Pulseq sequence programming on GE MRI systems<h3>
+<h3>Pulseq sequence programming on GE MRI systems</h3>
 
 <p>
 Implementation of vendor-neutral Pulseq GRE and spiral sequences on GE HealthCare 1.5 T and 3.0 T MRI systems. B0-inhomogeneity corrections for spiral reconstructions. Quantitative comparisons between vendor and Pulseq reconstructions.
@@ -128,7 +124,7 @@ MATLAB · Pulseq · TOPPE · MIRT · GE Orchestra · GE EPIC
 
 <div class="project">
 
-<h3>GUI for vendor-neutral sequence development<h3>
+<h3>GUI for vendor-neutral sequence development</h3>
 
 <p>
 Integration of on-scanner Pulseq sequence generation, reconstruction, and visualization. Direct reading of scanner configurations. Flexible adjustments for sequence generation parameters. 
@@ -142,13 +138,12 @@ MATLAB APP Developer · GE EPIC
 <a href="https://github.com/Alice-Ku/Pulseq-GE-GUI">GitHub</a>
 </p>
 
-</div>
 
 <h2 id="industry">Industry Experience</h2>
 
 <div class="industry">
 
-<h3>TSMC<h3>
+<h3>TSMC</h3>
 
 <div class="project-meta">
 R&D Intern (optical proximity correction, OPC)
@@ -158,6 +153,4 @@ R&D Intern (optical proximity correction, OPC)
 
 
 ---
-</div>
 © 2026 Alice Ku
-</div>
